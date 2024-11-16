@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<myopenmath xmlns:pi="http://pretextbook.org/2020/pretext/internal" id="1488888">
+<statement>
+<p>A grain silo is shown below. Measurements are in yards.</p>
+<image>
+<svg
+   width='59mm'
+   height='88mm'
+   viewBox='0 0 59 88'>
+    <ellipse
+       style='fill:none;stroke:#000000;stroke-width:0.265'
+       cx='25.989969'
+       cy='7.5329223'
+       rx='25.368147'
+       ry='7.1939521' />
+    <path
+       style='fill:none;stroke:#000000;stroke-width:0.265'
+       d='M 0.62182236,7.5329223 v 93.01600001' />
+    <path
+       style='fill:none;stroke:#000000;stroke-width:0.265'
+       d='M 51.358116,7.5329223 v 93.01600001' />
+    <path
+       style='fill:none;stroke:#000000;stroke-width:0.265'
+       d='M 12.399297,13.711928 25.935283,7.6538624' />
+    <path
+       style='fill:none;stroke:#000000;stroke-width:0.265;stroke-dasharray:1.59001, 1.59001;stroke-dashoffset:0'
+       d='M 0.62182236,100.5489223 c 0,-3.97311 11.35770675,-7.193951 25.36814875,-7.193951 14.010437,0 25.368146,3.220841 25.368146,7.193951' />
+    <path
+       style='fill:none;stroke:#000000;stroke-width:0.265'
+       d='M 51.358116,100.5489223 c 0,3.97311 -11.357706,7.193953 -25.368146,7.193953 -14.010442,0 -25.36814869,-3.220843 -25.36814869,-7.193953' />
+    <ellipse
+       style='fill:#554400;fill-opacity:0.5;stroke:none'
+       cx='25.989969'
+       cy='80.08540231'
+       rx='25.368147'
+       ry='7.1939521' />
+    <text
+       style='font-size:5.71159px'
+       x='$half'
+       y='-54.097469'
+       transform='rotate(90)'>11</text>
+    <text
+       style='font-size:5.71159px'
+       x='7.5573468'
+       y='8.8089228'>3.0</text>
+</svg>
+</image>
+<p>If 780 <m>{yd}^{3}</m> of grain is stored in the silo, what percent of the silo is full? <fillin characters="5" /></p>
+
+</statement>
+<solution>
+<p><ul><li>39.0</li></ul></p>
+</solution>
+</myopenmath>
+
