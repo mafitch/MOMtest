@@ -37,13 +37,14 @@
        x='7.5573468'
        y='8.8089228'>3.00</text>
 </svg>
-<image>
+</image>
 <p>All measurements are in meters.</p>
 <p>What is the volume of this cylinder?</p>
 <p>
   <fillin characters="8" /> <m>{m}^{3}</m> </p>
 <p>
   Round your answer using the rules of working with measurements.</p>
+<image>
 <svg
    width='60mm'
    height='60mm'
@@ -61,7 +62,7 @@
        style='fill:none;stroke:#000000;stroke-width:0.265'
        d='M 50.50000000,0.50000000 h -50.00' />
 </svg>
-
+</image>
 </statement>
 <solution>
 <p><ul><li>1,690</li></ul></p>
