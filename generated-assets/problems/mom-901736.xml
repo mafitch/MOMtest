@@ -4,14 +4,14 @@
 <image>
 <svg
    width='59mm'
-   height='88mm'
-   viewBox='0 0 59 88'>
+   height='76.3348744mm'
+   viewBox='0 0 59 76.3348744'>
     <path
        style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 0.62182236,7.5329223 v 84.56' />
+       d='M 0.62182236,7.5329223 v 61.608' />
     <path
        style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 51.358116,7.5390744 v 84.56' />
+       d='M 51.358116,7.5390744 v 61.608' />
     <ellipse
        style='fill:none;stroke:#000000;stroke-width:0.265'
        cx='25.989969'
@@ -20,52 +20,34 @@
        ry='7.1939521' />
     <path
        style='fill:none;stroke:#000000;stroke-width:0.265;stroke-dasharray:1.59001, 1.59001;stroke-dashoffset:0'
-       d='m 0.62168825,84.56 c 2.02e-6,-3.97311 11.35770675,-7.193951 25.36814875,-7.193951 14.010437,0 25.368146,3.220841 25.368146,7.193951' />
+       d='M 0.62168825,69.1470744 c 2.02e-6,-3.97311 11.35770675,-7.193951 25.36814875,-7.193951 14.010437,0 25.368146,3.220841 25.368146,7.193951' />
     <path
        style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='m 51.358116,84.56 c 0,3.97311 -11.357706,7.193953 -25.368146,7.193953 -14.010442,0 -25.36814869,-3.220843 -25.36814869,-7.193953' />
+       d='M 51.358116,69.1470744 c 0,3.97311 -11.357706,7.193953 -25.368146,7.193953 -14.010442,0 -25.36814869,-3.220843 -25.36814869,-7.193953' />
     <path
        style='fill:none;stroke:#000000;stroke-width:0.265'
        d='M 12.399297,13.711928 25.935283,7.6538624' />
     <text
        style='font-size:5.71159px'
-       x='42.28'
+       x='38.3430744'
        y='-54.097469'
-       transform='rotate(90)'>10.00</text>
+       transform='rotate(90)'>17.00</text>
     <text
        style='font-size:5.71159px'
        x='7.5573468'
-       y='8.8089228'>3.00</text>
+       y='8.8089228'>7.00</text>
 </svg>
 </image>
-<p>All measurements are in meters.</p>
+<p>All measurements are in centimeters.</p>
 <p>What is the volume of this cylinder?</p>
 <p>
-  <fillin characters="8" /> <m>{m}^{3}</m> </p>
+  <fillin characters="8" /> <m>{cm}^{3}</m> </p>
 <p>
   Round your answer using the rules of working with measurements.</p>
-<image>
-<svg
-   width='60mm'
-   height='60mm'
-   viewBox='0 0 60 60'>
-    <path
-       style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 0.50000000,0.50000000 v 50.00' />
-    <path
-       style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 0.50000000,50.50000000 h 50.00' />
-    <path
-       style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 50.50000000,50.50000000 v -50.00' />
-    <path
-       style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 50.50000000,0.50000000 h -50.00' />
-</svg>
-</image>
+
 </statement>
 <solution>
-<p><ul><li>1,690</li></ul></p>
+<p><ul><li>2,810</li></ul></p>
 </solution>
 </myopenmath>
 

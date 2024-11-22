@@ -11,13 +11,18 @@
   <xi:include href="sec-section-name.ptx" />
 
   <exercises>
+
       <exercise>
-          <title>Test this one</title>
+          <title>Random seed</title>
           <myopenmath problem="901736" />
       </exercise>
 
-     <exercise>
-          <title>Tall Graphics</title>
+      <exercise>
+          <title>Fixed seed</title>
+          <myopenmath problem="901736" params="seed=1128,maxtries=2" />
+      </exercise>
+
+      <exercise>
           <myopenmath problem="1488888" />
       </exercise>
 
