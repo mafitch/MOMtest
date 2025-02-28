@@ -11,19 +11,24 @@
   <xi:include href="sec-section-name.ptx" />
 
   <exercises>
+    <exercise>
+        <title>MOM 1550276</title>
+        <myopenmath problem="1550276" />
+    </exercise>
+
+    <exercise>
+        <title>MOM 1550276</title>
+        <myopenmath problem="1550276" params="seed=1057" />
+    </exercise>
 
       <exercise>
-          <title>Random seed</title>
-          <myopenmath problem="901736" />
+          <title>Seed 0404, no regen</title>
+          <myopenmath problem="901736" params="allowregen=0,hidescoreval=0,seed=0404" />
       </exercise>
 
       <exercise>
-          <title>Fixed seed</title>
-          <myopenmath problem="901736" params="seed=1128,maxtries=2" />
-      </exercise>
-
-      <exercise>
-          <myopenmath problem="1488888" />
+          <title>Seed 1128, maxtries</title>
+          <myopenmath problem="901736" params="maxtries=3,hidescoreval=0,seed=1128" />
       </exercise>
 
   </exercises>
