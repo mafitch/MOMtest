@@ -1,50 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <myopenmath xmlns:pi="http://pretextbook.org/2020/pretext/internal" id="901736">
 <statement>
-<image><svg
-   width='59mm'
-   height='61.2348744mm'
-   viewBox='0 0 59 61.2348744'>
-    <path
-       style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 0.62182236,7.5329223 v 46.508' />
-    <path
-       style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 51.358116,7.5390744 v 46.508' />
-    <ellipse
-       style='fill:none;stroke:#000000;stroke-width:0.265'
-       cx='25.989969'
-       cy='7.5390744'
-       rx='25.368147'
-       ry='7.1939521' />
-    <path
-       style='fill:none;stroke:#000000;stroke-width:0.265;stroke-dasharray:1.59001, 1.59001;stroke-dashoffset:0'
-       d='M 0.62168825,54.0470744 c 2.02e-6,-3.97311 11.35770675,-7.193951 25.36814875,-7.193951 14.010437,0 25.368146,3.220841 25.368146,7.193951' />
-    <path
-       style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 51.358116,54.0470744 c 0,3.97311 -11.357706,7.193953 -25.368146,7.193953 -14.010442,0 -25.36814869,-3.220843 -25.36814869,-7.193953' />
-    <path
-       style='fill:none;stroke:#000000;stroke-width:0.265'
-       d='M 12.399297,13.711928 25.935283,7.6538624' />
-    <text
-       style='font-size:5.71159px'
-       x='30.7930744'
-       y='-54.097469'
-       transform='rotate(90)'>11.00</text>
-    <text
-       style='font-size:5.71159px'
-       x='7.5573468'
-       y='8.8089228'>6.00</text>
-</svg></image>
-<p>All measurements are in feet.</p>
+<image pi:generated="problems/images/mom-901736-1" />
+<p>All measurements are in meters.</p>
 <p>What is the volume of this cylinder?</p>
 <p>
-  <fillin characters="8" /> <m>{ft}^{3}</m> </p>
+  <fillin characters="8" /> <m>{m}^{3}</m> </p>
 <p>
   Round your answer using the rules of working with measurements.</p>
 
 </statement>
 <solution>
-<p><ul><li>1,240</li></ul></p>
+<p><ul><li>707</li></ul></p>
 </solution>
 </myopenmath>
+

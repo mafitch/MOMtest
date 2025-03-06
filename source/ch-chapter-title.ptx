@@ -28,7 +28,7 @@
 
       <exercise>
           <title>Seed 1128, maxtries</title>
-          <myopenmath problem="901736" params="maxtries=3,hidescoreval=0,seed=1128" />
+          <myopenmath problem="930582" />
       </exercise>
 
   </exercises>
